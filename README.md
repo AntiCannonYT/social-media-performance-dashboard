@@ -18,7 +18,7 @@ The headline view: are we on track?
 - **Geographic Growth**: a world bubble map and a table of countries by share and change.
 - **Recent Anomalies**: a data-quality log covering missing posts, stale counts and catch-up jumps.
 
-![Core Tracker](screenshots/CoreTracker.png)
+![Core Tracker](screenshots/CampainView.png)
 
 ### 2. Campaign View
 How did each campaign or series perform?
@@ -27,7 +27,7 @@ How did each campaign or series perform?
 - **Platform Breakdown** for the selected series.
 - A **Campaign Performance Summary** table and an **Engagement Share by Series** donut.
 
-![Campaign View](screenshots/CampainView.png)
+![Campaign View](screenshots/CoreTracker.png)
 
 ### 3. Growth & Performance
 The deeper dive.
